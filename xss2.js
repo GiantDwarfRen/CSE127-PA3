@@ -1,4 +1,3 @@
-<script>
 {/* $( document ).ready(function() {
     const loggedInUser = document.getElementById('logged-in-user').textContent;
     const lastRecord = document.getElementById('history-list').children[1].textContent;
@@ -7,5 +6,4 @@
     xhr.open("GET", url);
     xhr.send();
 }); */}
-alert(1);
-</script>
+alert("1");
